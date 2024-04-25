@@ -52,5 +52,5 @@ echo '</tbody></table>'; fclose($handleSS); ?> <SCRIPT language=JavaScript> var 
 	
 });
 
-</script> <br><br> <footer> &copy; <em id="date">2021</em>| PSMS | Direktorat 
+</script> <br><br> <footer> &copy; <em id="date">2024</em>| PSMS | Direktorat 
 Pengendalian SDPPI | </footer> </body> </html>

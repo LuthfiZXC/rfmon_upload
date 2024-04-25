@@ -18,5 +18,5 @@ type="text/javascript" src="tab/dist/js/tabulator.min.js"></script> <style> body
 </style> </head> <body> <img src="sdppi.png" alt="SDPPI"> <br> <br> <div> <?php 
 include('topmenu.php'); ?> <br> <script> </script> <div class="threeD">
             Stasiun <br> Okupansi <br> Transportable <br> </div> <br> <footer> &copy; 
-<em id="date">2021</em>| PSMS | Direktorat Pengendalian SDPPI | </footer> </body> 
+<em id="date">2024</em>| PSMS | Direktorat Pengendalian SDPPI | </footer> </body> 
 </html>

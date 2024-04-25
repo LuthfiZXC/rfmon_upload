@@ -55,4 +55,4 @@ document.getElementById("download-csv").addEventListener("click", function(){ ta
 function sort_default() {
 	//table.setSort("tanggal","desc"); table.setSort("frekuensi","desc"); table.setSort("waktu","desc");
 };
-</script> <br><br> <footer> &copy; <em id="date">2021</em>| PSMS | Direktorat Pengendalian SDPPI | </footer> </body> </html>
+</script> <br><br> <footer> &copy; <em id="date">2024</em>| PSMS | Direktorat Pengendalian SDPPI | </footer> </body> </html>
